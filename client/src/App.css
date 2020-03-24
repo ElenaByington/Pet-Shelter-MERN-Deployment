@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.table {
+  margin: 0 auto;
+  border-color: black;
+}
+
+.text-danger {
+  color: red;
+}
